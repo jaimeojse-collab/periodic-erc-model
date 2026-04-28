@@ -41,6 +41,12 @@ These findings suggest that oxygen-relative chemical space may encode structured
 
 ## Repository structure
 
+- `notebooks/` — main simulation notebook  
+- `data/input/` — input datasets  
+- `data/output/` — generated results  
+- `figures/` — figures used in the paper  
+- `paper/` — manuscript PDF
+
 ## Reproducibility
 
 To reproduce the results:
