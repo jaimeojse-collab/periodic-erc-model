@@ -59,4 +59,4 @@ No external dependencies beyond standard Python scientific libraries are require
 
 ## Statement
 
-These results suggest that oxygen-relative chemical space may contain a hidden dynamical structure, visible through recoverability pathways rather than static distance alone.
+These results suggest that oxygen-relative chemical space may encode distinct dynamical accessibility regimes, not directly reducible to static geometric distance alone.
