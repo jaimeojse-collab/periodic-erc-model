@@ -39,6 +39,13 @@ Across 118 elements, we observe:
 
 These findings suggest that oxygen-relative chemical space may encode structured dynamical accessibility regimes.
 
+## Visualization
+
+![ERC regimes](figures/fig1.png)
+
+Oxygen-relative chemical space reveals structured dynamical regimes.  
+Each point represents an element positioned by its distance to oxygen and its fraction of trajectories exhibiting damage-before-nonreturn behavior.
+
 ## Repository structure
 
 - `notebooks/` — main simulation notebook  
