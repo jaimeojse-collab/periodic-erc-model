@@ -40,3 +40,17 @@ Across 118 elements, we observe:
 These findings suggest that oxygen-relative chemical space may encode structured dynamical accessibility regimes.
 
 ## Repository structure
+
+## Reproducibility
+
+To reproduce the results:
+
+1. Open `notebooks/Periodic_ERC_Model.ipynb` in Google Colab  
+2. Run all cells sequentially  
+3. All figures and outputs will be generated automatically
+
+No external dependencies beyond standard Python scientific libraries are required.
+
+## Statement
+
+These results suggest that oxygen-relative chemical space may contain a hidden dynamical structure, visible through recoverability pathways rather than static distance alone.
