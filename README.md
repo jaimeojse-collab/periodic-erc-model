@@ -1,5 +1,7 @@
 # Oxygen-relative ERC Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19838303.svg)](https://doi.org/10.5281/zenodo.19838303)
+
 This repository contains a minimal dynamical framework exploring recoverability-constrained behavior across 118 chemical elements, parameterized by oxygen-relative geometry.
 
 ## Core idea
